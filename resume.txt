@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<body>
+<h1 align=center> <b>  MY RESUME </b> </h1>
+<img src="baby.jpg"align="right" width=100 height=100/>
+ <h2>name:shaik nandini</h2>
+ <h2>gmail:shaiknandini064@gmail.com</h2>
+ <h2>phno:12345678</h3>
+ <h2>  <font color="blue"><u>OBJECTIVES: </u></font> </h2>
+ <p> to become a good softwear developer for the future generation and 
+  eger to learn the technological development</p>
+ <h3>
+ <font color="red"><u>EDUCATION:</u></font> </h3>
+ <table border="1">
+<tr>
+ <td>s.no</td>
+ <td>education</td>
+ <td>collegename</td>
+ <td>percentage</td>
+ </tr>
+ <tr>
+ <td>1</td>
+ <td>ssc</td>
+ <td>zphs</td>
+ <td>92%</td>
+ </tr>
+ <tr>
+ <td>2</td>
+ <td>inter</td>
+ <td>vit</td>
+ <td>95%</td>
+ </tr>
+ <tr>
+ <td>3</td>
+ <td>b.tech</td>
+ <td>kl</td>
+ <td>97%</td>
+ </tr>
+ <tr>
+ <td>4</td>
+ <td>m.tech</td>
+ <td>jntuk</td>
+ <td>98%</td>
+ </tr>
+ </table>
+ <h2>  <font color="aquamerine"><u>skills: </u></font> </h2>
+ <h4>good problem solving skills</h4>
+ <h4>speaking abilities</h4>
+ <h2>
+ <font color="gold"><u>programing language:</u></font> </h2>
+    <li align=left>c-language</li>
+    <li align=left>python</li>
+    <li align=left>c++</li>
+    <li align=left>html,css</li>
+ <h3>  <font color="peach"><u>HOBBIES: </u></font> </h3>
+ singing <br>dancing<br>watchig tv<br>reading books<br>outdoor games
+ <h3>  <font color="purple"><u>STRENTHS: </u></font> </h3>
+ <li align=left>creativity</li>
+    <li align=left>self motivation</li>
+    <li align=left>quick learning to new thing</li>
+    <li align=left>adaptabily</li>
+<font color="violet"><u><b>Declaration:</b></u></font><br>
+<input type="checkbox" ><label>I Hereby declared that the above mentioned details are true as per my knowledge</label>
+<h3 align="right">Signature:</h3>
+<h4 align="right">Nandini</h4>
+ 
+ 
+
+
+
+
+
+
+
+</body>
+</html>
